@@ -35,11 +35,6 @@ public class LeapYearTest {
 
     @Test
     public void should_return_123_when_input_is_0(){
-        //given
-
-        //when
-
-        //then
        assertThat(123,is(123));
     }
 }
